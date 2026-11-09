@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mukunganocktot-wq.github.io/sitemap.xml
